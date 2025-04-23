@@ -1,2 +1,2 @@
 # Roblox-Sniper
-Discord integrated Roblox, account sniper for experiences.
+Discord integrated Roblox account sniper for experiences.
