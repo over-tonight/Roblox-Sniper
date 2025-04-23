@@ -12,7 +12,7 @@ TOKEN = '' # Put your discord bot token here.
 # Dont change anything below unless you know what you're doing.
 @client.event
 async def on_ready():
-    print("Started") # TODO make this print the bot username at the end.
+    print(f'We have logged in as {client.user}')
     await client.tree.sync()
 
 def snipe(ign: str, placeId: int, cursor: str):
